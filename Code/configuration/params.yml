@@ -1,0 +1,56 @@
+
+
+battery:
+  nominal_capacity: 19 # w
+  soc_init: 80
+  nominal_current: 4.9 # A
+  nominal_Ah: 4.9 # Ah
+
+
+
+
+data:
+  matlab_data: "/home/danial/Documents/Codes/BMS-SOC/Code/data/NMC_cell_data.mat"
+  matlab_data_test: "/home/danial/Documents/Codes/BMS-SOC/Code/data/cycle.mat"
+  P_net: "/home/danial/Documents/Codes/BMS-SOC/Code/data-n/processed_data_661.csv"
+
+
+train:
+  epsilon: 0.00001
+  time_interval: 0.1 # min
+  GA: False 
+
+RL_coeff:
+  coeff_q_loss: 1
+  coeff_p_loss: 1
+
+economic:
+  constant_price = 0.5 # Euro 
+
+aging_model:
+  # Equation (4) in “A Control-Oriented Cycle-Life Model for HEV Lithium-Ion Batteries”
+  eqn_4:
+
+    constant_temperature: 25
+    # Activation Energy [J/mol]
+    Ea_J_per_mol: 31500
+
+    # Universal Gas Constant [J/(mol*K)]
+    Rg_J_per_molK: 8.314
+
+    # Fit coefficient multiplying Ic
+    h: 152.5
+
+    # Power-law exponent, used in Q_loss = sfunct(...) * (Ah)^z
+    exponent_z: 0.57
+
+    # Two sets of (a, b) for below-45% SOC and at/above-45% SOC
+    case_l_45:
+      soc_range: "< 45%"
+      a: 2896.6
+      b: 7411.2
+
+    case_b_45:
+      soc_range: ">= 45%"
+      a: 2694.5
+      b: 6022.2

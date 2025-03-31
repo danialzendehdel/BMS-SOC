@@ -1,0 +1,1052 @@
+======================================================================
+|Energy Data Statistics                                            |
+| solar_max: 5.545                                                 |
+| solar_min: 0.0                                                   |
+| solar_mean: 0.8870067435158501                                   |
+| load_max: 10.152                                                 |
+| load_min: 0.0                                                    |
+| load_mean: 1.4922489048991354                                    |
+| number of points: 34700                                          |
+|Process! Energy data saved to Code/results/csv/energy_data.csv    |
+|Process! Energy profiles plot saved to Code/results/figures/energy_profiles.png|
+======================================================================
+|Data Statistics R_lookup                                 |
+|length: 8475                                                      |
+|max: 0.2823239009967021                                           |
+|min: 0.02570423817967532                                          |
+|mean: 0.0523                                                      |
+|std: 0.0302                                                       |
+======================================================================
+======================================================================
+|Data Statistics SOC_lookup                               |
+|length: 8475                                                      |
+|max: 87.45                                                        |
+|min: 2.71                                                         |
+|mean: 45.0800                                                     |
+|std: 24.4652                                                      |
+======================================================================
+======================================================================
+|Data Statistics C_rate_lookup                            |
+|length: 19                                                        |
+|max: 1.0                                                          |
+|min: 0.1                                                          |
+|mean: 0.5500                                                      |
+|std: 0.2739                                                       |
+======================================================================
+======================================================================
+|Data Statistics OCV_lookup                               |
+|length: 8475                                                      |
+|max: 4.090559004203686                                            |
+|min: 2.932747005865619                                            |
+|mean: 3.6674                                                      |
+|std: 0.2617                                                       |
+======================================================================
+======================================================================
+|Energy Data Statistics                                            |
+| solar_max: 5.545                                                 |
+| solar_min: 0.0                                                   |
+| solar_mean: 0.8870067435158501                                   |
+| load_max: 10.152                                                 |
+| load_min: 0.0                                                    |
+| load_mean: 1.4922489048991354                                    |
+| number of points: 34700                                          |
+======================================================================
+|Data Statistics R_lookup                                 |
+|length: 8475                                                      |
+|max: 0.2823239009967021                                           |
+|min: 0.02570423817967532                                          |
+|mean: 0.0523                                                      |
+|std: 0.0302                                                       |
+======================================================================
+======================================================================
+|Data Statistics SOC_lookup                               |
+|length: 8475                                                      |
+|max: 87.45                                                        |
+|min: 2.71                                                         |
+|mean: 45.0800                                                     |
+|std: 24.4652                                                      |
+======================================================================
+======================================================================
+|Data Statistics C_rate_lookup                            |
+|length: 19                                                        |
+|max: 1.0                                                          |
+|min: 0.1                                                          |
+|mean: 0.5500                                                      |
+|std: 0.2739                                                       |
+======================================================================
+======================================================================
+|Data Statistics OCV_lookup                               |
+|length: 8475                                                      |
+|max: 4.090559004203686                                            |
+|min: 2.932747005865619                                            |
+|mean: 3.6674                                                      |
+|std: 0.2617                                                       |
+======================================================================
+|Process! Environment RESET => new episode started                 |
+|Process! PPO model created successfully                           |
+|Process! Starting training...                                     |
+|Process! Environment RESET => new episode started                 |
+|Process! Action before optimize: -0.149 kW                        |
+|Process! Optimizer received power: -0.149 kW                      |
+|Process! Solve_current: P=-0.4 W, I=-0.116 A, Calc=-0.4 W         |
+|Process! Solve_current: P=-0.4 W, I=-0.116 A, Calc=-0.4 W         |
+|Process! R_pack: 0.026707, R_cell: 0.040951, I_pack: -2.667, I_cell: -0.116, Power_expected: -149.1 W, Power_calc: -149.1 W|
+|Process! Action before optimize: 0.230 kW                         |
+|Process! Optimizer received power: 0.230 kW                       |
+|Process! Solve_current: P=0.7 W, I=0.179 A, Calc=0.7 W            |
+|Process! Solve_current: P=0.7 W, I=0.179 A, Calc=0.7 W            |
+|Process! R_pack: 0.023153, R_cell: 0.035501, I_pack: 4.112, I_cell: 0.179, Power_expected: 229.6 W, Power_calc: 229.6 W|
+|Process! Action before optimize: -1.325 kW                        |
+|Process! Optimizer received power: -1.325 kW                      |
+|Process! Solve_current: P=-3.8 W, I=-1.016 A, Calc=-3.8 W         |
+|Process! Solve_current: P=-3.8 W, I=-1.023 A, Calc=-3.8 W         |
+|Process! R_pack: 0.021054, R_cell: 0.032283, I_pack: -23.536, I_cell: -1.023, Power_expected: -1324.8 W, Power_calc: -1324.8 W|
+|Process! Action before optimize: 0.498 kW                         |
+|Process! Optimizer received power: 0.498 kW                       |
+|Process! Solve_current: P=1.4 W, I=0.385 A, Calc=1.4 W            |
+|Process! Solve_current: P=1.4 W, I=0.384 A, Calc=1.4 W            |
+|Process! R_pack: 0.020844, R_cell: 0.031961, I_pack: 8.832, I_cell: 0.384, Power_expected: 498.4 W, Power_calc: 498.4 W|
+|Process! Action before optimize: -2.424 kW                        |
+|Process! Optimizer received power: -2.424 kW                      |
+|Process! Solve_current: P=-7.0 W, I=-1.818 A, Calc=-7.0 W         |
+|Process! Solve_current: P=-7.0 W, I=-1.843 A, Calc=-7.0 W         |
+|Process! R_pack: 0.020951, R_cell: 0.032125, I_pack: -42.390, I_cell: -1.843, Power_expected: -2424.4 W, Power_calc: -2424.4 W|
+|Process! Action before optimize: 0.087 kW                         |
+|Process! Optimizer received power: 0.087 kW                       |
+|Process! Solve_current: P=0.3 W, I=0.066 A, Calc=0.3 W            |
+|Process! Solve_current: P=0.3 W, I=0.066 A, Calc=0.3 W            |
+|Process! R_pack: 0.036196, R_cell: 0.055500, I_pack: 1.514, I_cell: 0.066, Power_expected: 87.3 W, Power_calc: 87.3 W|
+|Process! Action before optimize: -1.842 kW                        |
+|Process! Optimizer received power: -1.842 kW                      |
+|Process! Solve_current: P=-5.3 W, I=-1.354 A, Calc=-5.3 W         |
+|Process! Solve_current: P=-5.3 W, I=-1.374 A, Calc=-5.3 W         |
+|Process! R_pack: 0.019937, R_cell: 0.030570, I_pack: -31.601, I_cell: -1.374, Power_expected: -1841.6 W, Power_calc: -1841.6 W|
+|Process! Action before optimize: -0.657 kW                        |
+|Process! Optimizer received power: -0.657 kW                      |
+|Process! Solve_current: P=-1.9 W, I=-0.485 A, Calc=-1.9 W         |
+|Process! Solve_current: P=-1.9 W, I=-0.486 A, Calc=-1.9 W         |
+|Process! R_pack: 0.020618, R_cell: 0.031615, I_pack: -11.188, I_cell: -0.486, Power_expected: -657.4 W, Power_calc: -657.4 W|
+|Process! Action before optimize: 1.340 kW                         |
+|Process! Optimizer received power: 1.340 kW                       |
+|Process! Solve_current: P=3.9 W, I=1.004 A, Calc=3.9 W            |
+|Process! Solve_current: P=3.9 W, I=0.998 A, Calc=3.9 W            |
+|Process! R_pack: 0.020768, R_cell: 0.031845, I_pack: 22.949, I_cell: 0.998, Power_expected: 1339.8 W, Power_calc: 1339.8 W|
+|Process! Action before optimize: -1.635 kW                        |
+|Process! Optimizer received power: -1.635 kW                      |
+|Process! Solve_current: P=-4.7 W, I=-1.198 A, Calc=-4.7 W         |
+|Process! Solve_current: P=-4.7 W, I=-1.209 A, Calc=-4.7 W         |
+|Process! R_pack: 0.020402, R_cell: 0.031284, I_pack: -27.818, I_cell: -1.209, Power_expected: -1634.9 W, Power_calc: -1634.9 W|
+|Process! Action before optimize: 0.724 kW                         |
+|Process! Optimizer received power: 0.724 kW                       |
+|Process! Solve_current: P=2.1 W, I=0.537 A, Calc=2.1 W            |
+|Process! Solve_current: P=2.1 W, I=0.535 A, Calc=2.1 W            |
+|Process! R_pack: 0.020837, R_cell: 0.031950, I_pack: 12.314, I_cell: 0.535, Power_expected: 723.7 W, Power_calc: 723.7 W|
+|Process! Action before optimize: -0.246 kW                        |
+|Process! Optimizer received power: -0.246 kW                      |
+|Process! Solve_current: P=-0.7 W, I=-0.182 A, Calc=-0.7 W         |
+|Process! Solve_current: P=-0.7 W, I=-0.182 A, Calc=-0.7 W         |
+|Process! R_pack: 0.022157, R_cell: 0.033974, I_pack: -4.191, I_cell: -0.182, Power_expected: -246.1 W, Power_calc: -246.1 W|
+|Process! Action before optimize: 0.331 kW                         |
+|Process! Optimizer received power: 0.331 kW                       |
+|Process! Solve_current: P=1.0 W, I=0.246 A, Calc=1.0 W            |
+|Process! Solve_current: P=1.0 W, I=0.245 A, Calc=1.0 W            |
+|Process! R_pack: 0.020725, R_cell: 0.031779, I_pack: 5.645, I_cell: 0.245, Power_expected: 331.1 W, Power_calc: 331.1 W|
+|Process! Action before optimize: -0.879 kW                        |
+|Process! Optimizer received power: -0.879 kW                      |
+|Process! Solve_current: P=-2.5 W, I=-0.646 A, Calc=-2.5 W         |
+|Process! Solve_current: P=-2.5 W, I=-0.649 A, Calc=-2.5 W         |
+|Process! R_pack: 0.020657, R_cell: 0.031675, I_pack: -14.916, I_cell: -0.649, Power_expected: -878.5 W, Power_calc: -878.5 W|
+|Process! Action before optimize: -0.968 kW                        |
+|Process! Optimizer received power: -0.968 kW                      |
+|Process! Solve_current: P=-2.8 W, I=-0.706 A, Calc=-2.8 W         |
+|Process! Solve_current: P=-2.8 W, I=-0.709 A, Calc=-2.8 W         |
+|Process! R_pack: 0.020847, R_cell: 0.031966, I_pack: -16.303, I_cell: -0.709, Power_expected: -968.5 W, Power_calc: -968.5 W|
+|Process! Action before optimize: -0.007 kW                        |
+|Process! Optimizer received power: -0.007 kW                      |
+|Process! Solve_current: P=-0.0 W, I=-0.005 A, Calc=-0.0 W         |
+|Process! R_pack: 0.035198, R_cell: 0.053971, I_pack: -0.125, I_cell: -0.005, Power_expected: -7.5 W, Power_calc: -7.5 W|
+|Process! Action before optimize: 0.575 kW                         |
+|Process! Optimizer received power: 0.575 kW                       |
+|Process! Solve_current: P=1.7 W, I=0.421 A, Calc=1.7 W            |
+|Process! Solve_current: P=1.7 W, I=0.420 A, Calc=1.7 W            |
+|Process! R_pack: 0.021127, R_cell: 0.032395, I_pack: 9.654, I_cell: 0.420, Power_expected: 574.7 W, Power_calc: 574.7 W|
+|Process! Action before optimize: 0.293 kW                         |
+|Process! Optimizer received power: 0.293 kW                       |
+|Process! Solve_current: P=0.8 W, I=0.215 A, Calc=0.8 W            |
+|Process! Solve_current: P=0.8 W, I=0.215 A, Calc=0.8 W            |
+|Process! R_pack: 0.020963, R_cell: 0.032144, I_pack: 4.947, I_cell: 0.215, Power_expected: 292.9 W, Power_calc: 292.9 W|
+|Process! Action before optimize: 2.657 kW                         |
+|Process! Optimizer received power: 2.657 kW                       |
+|Process! Solve_current: P=7.7 W, I=2.010 A, Calc=7.7 W            |
+|Process! Solve_current: P=7.7 W, I=1.986 A, Calc=7.7 W            |
+|Process! R_pack: 0.020876, R_cell: 0.032010, I_pack: 45.675, I_cell: 1.986, Power_expected: 2657.1 W, Power_calc: 2657.1 W|
+|Process! Action before optimize: 1.471 kW                         |
+|Process! Optimizer received power: 1.471 kW                       |
+|Process! Solve_current: P=4.3 W, I=1.131 A, Calc=4.3 W            |
+|Process! Solve_current: P=4.3 W, I=1.117 A, Calc=4.3 W            |
+|Process! R_pack: 0.019985, R_cell: 0.030644, I_pack: 25.694, I_cell: 1.117, Power_expected: 1470.6 W, Power_calc: 1470.6 W|
+|Process! Action before optimize: 0.507 kW                         |
+|Process! Optimizer received power: 0.507 kW                       |
+|Process! Solve_current: P=1.5 W, I=0.390 A, Calc=1.5 W            |
+|Process! Solve_current: P=1.5 W, I=0.388 A, Calc=1.5 W            |
+|Process! R_pack: 0.020663, R_cell: 0.031683, I_pack: 8.933, I_cell: 0.388, Power_expected: 506.5 W, Power_calc: 506.5 W|
+|Process! Action before optimize: 0.361 kW                         |
+|Process! Optimizer received power: 0.361 kW                       |
+|Process! Solve_current: P=1.0 W, I=0.279 A, Calc=1.0 W            |
+|Process! Solve_current: P=1.0 W, I=0.278 A, Calc=1.0 W            |
+|Process! R_pack: 0.020858, R_cell: 0.031982, I_pack: 6.404, I_cell: 0.278, Power_expected: 361.4 W, Power_calc: 361.4 W|
+|Process! Action before optimize: -0.933 kW                        |
+|Process! Optimizer received power: -0.933 kW                      |
+|Process! Solve_current: P=-2.7 W, I=-0.712 A, Calc=-2.7 W         |
+|Process! Solve_current: P=-2.7 W, I=-0.716 A, Calc=-2.7 W         |
+|Process! R_pack: 0.020950, R_cell: 0.032124, I_pack: -16.457, I_cell: -0.716, Power_expected: -932.6 W, Power_calc: -932.6 W|
+|Process! Action before optimize: -0.903 kW                        |
+|Process! Optimizer received power: -0.903 kW                      |
+|Process! Solve_current: P=-2.6 W, I=-0.682 A, Calc=-2.6 W         |
+|Process! Solve_current: P=-2.6 W, I=-0.686 A, Calc=-2.6 W         |
+|Process! R_pack: 0.020631, R_cell: 0.031634, I_pack: -15.772, I_cell: -0.686, Power_expected: -903.0 W, Power_calc: -903.0 W|
+|Process! Action before optimize: -0.149 kW                        |
+|Process! Optimizer received power: -0.149 kW                      |
+|Process! Solve_current: P=-0.4 W, I=-0.113 A, Calc=-0.4 W         |
+|Process! Solve_current: P=-0.4 W, I=-0.113 A, Calc=-0.4 W         |
+|Process! R_pack: 0.028951, R_cell: 0.044392, I_pack: -2.592, I_cell: -0.113, Power_expected: -149.2 W, Power_calc: -149.2 W|
+|Process! Action before optimize: -0.365 kW                        |
+|Process! Optimizer received power: -0.365 kW                      |
+|Process! Solve_current: P=-1.1 W, I=-0.275 A, Calc=-1.1 W         |
+|Process! Solve_current: P=-1.1 W, I=-0.275 A, Calc=-1.1 W         |
+|Process! R_pack: 0.019932, R_cell: 0.030562, I_pack: -6.333, I_cell: -0.275, Power_expected: -365.3 W, Power_calc: -365.3 W|
+|Process! Action before optimize: 0.309 kW                         |
+|Process! Optimizer received power: 0.309 kW                       |
+|Process! Solve_current: P=0.9 W, I=0.234 A, Calc=0.9 W            |
+|Process! Solve_current: P=0.9 W, I=0.233 A, Calc=0.9 W            |
+|Process! R_pack: 0.019996, R_cell: 0.030660, I_pack: 5.366, I_cell: 0.233, Power_expected: 309.4 W, Power_calc: 309.4 W|
+|Process! Action before optimize: -2.512 kW                        |
+|Process! Optimizer received power: -2.512 kW                      |
+|Process! Solve_current: P=-7.3 W, I=-1.833 A, Calc=-7.3 W         |
+|Process! Solve_current: P=-7.3 W, I=-1.869 A, Calc=-7.3 W         |
+|Process! R_pack: 0.019924, R_cell: 0.030550, I_pack: -42.976, I_cell: -1.869, Power_expected: -2511.8 W, Power_calc: -2511.8 W|
+|Process! Action before optimize: 0.852 kW                         |
+|Process! Optimizer received power: 0.852 kW                       |
+|Process! Solve_current: P=2.5 W, I=0.635 A, Calc=2.5 W            |
+|Process! Solve_current: P=2.5 W, I=0.632 A, Calc=2.5 W            |
+|Process! R_pack: 0.020785, R_cell: 0.031870, I_pack: 14.544, I_cell: 0.632, Power_expected: 852.3 W, Power_calc: 852.3 W|
+|Process! Action before optimize: -1.270 kW                        |
+|Process! Optimizer received power: -1.270 kW                      |
+|Process! Solve_current: P=-3.7 W, I=-0.931 A, Calc=-3.7 W         |
+|Process! Solve_current: P=-3.7 W, I=-0.937 A, Calc=-3.7 W         |
+|Process! R_pack: 0.020573, R_cell: 0.031546, I_pack: -21.558, I_cell: -0.937, Power_expected: -1269.5 W, Power_calc: -1269.5 W|
+|Process! Action before optimize: 0.703 kW                         |
+|Process! Optimizer received power: 0.703 kW                       |
+|Process! Solve_current: P=2.0 W, I=0.520 A, Calc=2.0 W            |
+|Process! Solve_current: P=2.0 W, I=0.519 A, Calc=2.0 W            |
+|Process! R_pack: 0.020900, R_cell: 0.032047, I_pack: 11.926, I_cell: 0.519, Power_expected: 702.6 W, Power_calc: 702.6 W|
+|Process! Action before optimize: -2.848 kW                        |
+|Process! Optimizer received power: -2.848 kW                      |
+|Process! Solve_current: P=-8.3 W, I=-2.047 A, Calc=-8.3 W         |
+|Process! Solve_current: P=-8.3 W, I=-2.073 A, Calc=-8.3 W         |
+|Process! R_pack: 0.020710, R_cell: 0.031755, I_pack: -47.676, I_cell: -2.073, Power_expected: -2847.5 W, Power_calc: -2847.5 W|
+|Process! Action before optimize: -0.318 kW                        |
+|Process! Optimizer received power: -0.318 kW                      |
+|Process! Solve_current: P=-0.9 W, I=-0.228 A, Calc=-0.9 W         |
+|Process! Solve_current: P=-0.9 W, I=-0.229 A, Calc=-0.9 W         |
+|Process! R_pack: 0.021336, R_cell: 0.032715, I_pack: -5.261, I_cell: -0.229, Power_expected: -318.1 W, Power_calc: -318.1 W|
+|Process! Action before optimize: 0.488 kW                         |
+|Process! Optimizer received power: 0.488 kW                       |
+|Process! Solve_current: P=1.4 W, I=0.353 A, Calc=1.4 W            |
+|Process! Solve_current: P=1.4 W, I=0.353 A, Calc=1.4 W            |
+|Process! R_pack: 0.021336, R_cell: 0.032715, I_pack: 8.109, I_cell: 0.353, Power_expected: 488.0 W, Power_calc: 488.0 W|
+|Process! Action before optimize: -1.151 kW                        |
+|Process! Optimizer received power: -1.151 kW                      |
+|Process! Solve_current: P=-3.3 W, I=-0.826 A, Calc=-3.3 W         |
+|Process! Solve_current: P=-3.3 W, I=-0.829 A, Calc=-3.3 W         |
+|Process! R_pack: 0.021204, R_cell: 0.032512, I_pack: -19.070, I_cell: -0.829, Power_expected: -1150.9 W, Power_calc: -1150.9 W|
+|Process! Action before optimize: -1.240 kW                        |
+|Process! Optimizer received power: -1.240 kW                      |
+|Process! Solve_current: P=-3.6 W, I=-0.883 A, Calc=-3.6 W         |
+|Process! Solve_current: P=-3.6 W, I=-0.887 A, Calc=-3.6 W         |
+|Process! R_pack: 0.021336, R_cell: 0.032715, I_pack: -20.399, I_cell: -0.887, Power_expected: -1240.0 W, Power_calc: -1240.0 W|
+|Process! Action before optimize: -1.723 kW                        |
+|Process! Optimizer received power: -1.723 kW                      |
+|Process! Solve_current: P=-5.0 W, I=-1.222 A, Calc=-5.0 W         |
+|Process! Solve_current: P=-5.0 W, I=-1.229 A, Calc=-5.0 W         |
+|Process! R_pack: 0.021336, R_cell: 0.032715, I_pack: -28.270, I_cell: -1.229, Power_expected: -1723.2 W, Power_calc: -1723.2 W|
+|Process! Action before optimize: -1.259 kW                        |
+|Process! Optimizer received power: -1.259 kW                      |
+|Process! Solve_current: P=-3.6 W, I=-0.896 A, Calc=-3.6 W         |
+|Process! Solve_current: P=-3.6 W, I=-0.900 A, Calc=-3.6 W         |
+|Process! R_pack: 0.021336, R_cell: 0.032715, I_pack: -20.711, I_cell: -0.900, Power_expected: -1259.1 W, Power_calc: -1259.1 W|
+|Process! Action before optimize: 0.271 kW                         |
+|Process! Optimizer received power: 0.271 kW                       |
+|Process! Solve_current: P=0.8 W, I=0.196 A, Calc=0.8 W            |
+|Process! Solve_current: P=0.8 W, I=0.196 A, Calc=0.8 W            |
+|Process! R_pack: 0.022167, R_cell: 0.033989, I_pack: 4.499, I_cell: 0.196, Power_expected: 271.1 W, Power_calc: 271.1 W|
+|Process! Action before optimize: -1.170 kW                        |
+|Process! Optimizer received power: -1.170 kW                      |
+|Process! Solve_current: P=-3.4 W, I=-0.837 A, Calc=-3.4 W         |
+|Process! Solve_current: P=-3.4 W, I=-0.840 A, Calc=-3.4 W         |
+|Process! R_pack: 0.021268, R_cell: 0.032612, I_pack: -19.327, I_cell: -0.840, Power_expected: -1169.9 W, Power_calc: -1169.9 W|
+|Process! Action before optimize: -0.121 kW                        |
+|Process! Optimizer received power: -0.121 kW                      |
+|Process! Solve_current: P=-0.3 W, I=-0.087 A, Calc=-0.3 W         |
+|Process! Solve_current: P=-0.3 W, I=-0.087 A, Calc=-0.3 W         |
+|Process! R_pack: 0.028045, R_cell: 0.043002, I_pack: -1.998, I_cell: -0.087, Power_expected: -120.7 W, Power_calc: -120.7 W|
+|Process! Action before optimize: 0.275 kW                         |
+|Process! Optimizer received power: 0.275 kW                       |
+|Process! Solve_current: P=0.8 W, I=0.199 A, Calc=0.8 W            |
+|Process! Solve_current: P=0.8 W, I=0.199 A, Calc=0.8 W            |
+|Process! R_pack: 0.022167, R_cell: 0.033989, I_pack: 4.571, I_cell: 0.199, Power_expected: 275.4 W, Power_calc: 275.4 W|
+|Process! Action before optimize: 1.441 kW                         |
+|Process! Optimizer received power: 1.441 kW                       |
+|Process! Solve_current: P=4.2 W, I=1.058 A, Calc=4.2 W            |
+|Process! Solve_current: P=4.2 W, I=1.052 A, Calc=4.2 W            |
+|Process! R_pack: 0.021259, R_cell: 0.032598, I_pack: 24.186, I_cell: 1.052, Power_expected: 1441.5 W, Power_calc: 1441.5 W|
+|Process! Action before optimize: -0.550 kW                        |
+|Process! Optimizer received power: -0.550 kW                      |
+|Process! Solve_current: P=-1.6 W, I=-0.403 A, Calc=-1.6 W         |
+|Process! Solve_current: P=-1.6 W, I=-0.404 A, Calc=-1.6 W         |
+|Process! R_pack: 0.020818, R_cell: 0.031921, I_pack: -9.296, I_cell: -0.404, Power_expected: -549.9 W, Power_calc: -549.9 W|
+|Process! Action before optimize: -0.094 kW                        |
+|Process! Optimizer received power: -0.094 kW                      |
+|Process! Solve_current: P=-0.3 W, I=-0.069 A, Calc=-0.3 W         |
+|Process! Solve_current: P=-0.3 W, I=-0.069 A, Calc=-0.3 W         |
+|Process! R_pack: 0.030112, R_cell: 0.046172, I_pack: -1.587, I_cell: -0.069, Power_expected: -94.3 W, Power_calc: -94.3 W|
+|Process! Action before optimize: -0.085 kW                        |
+|Process! Optimizer received power: -0.085 kW                      |
+|Process! Solve_current: P=-0.2 W, I=-0.062 A, Calc=-0.2 W         |
+|Process! Solve_current: P=-0.2 W, I=-0.062 A, Calc=-0.2 W         |
+|Process! R_pack: 0.030104, R_cell: 0.046159, I_pack: -1.432, I_cell: -0.062, Power_expected: -85.2 W, Power_calc: -85.2 W|
+|Process! Action before optimize: 1.313 kW                         |
+|Process! Optimizer received power: 1.313 kW                       |
+|Process! Solve_current: P=3.8 W, I=0.972 A, Calc=3.8 W            |
+|Process! Solve_current: P=3.8 W, I=0.967 A, Calc=3.8 W            |
+|Process! R_pack: 0.021036, R_cell: 0.032255, I_pack: 22.239, I_cell: 0.967, Power_expected: 1313.0 W, Power_calc: 1313.0 W|
+|Process! Action before optimize: -1.220 kW                        |
+|Process! Optimizer received power: -1.220 kW                      |
+|Process! Solve_current: P=-3.5 W, I=-0.893 A, Calc=-3.5 W         |
+|Process! Solve_current: P=-3.5 W, I=-0.898 A, Calc=-3.5 W         |
+|Process! R_pack: 0.020661, R_cell: 0.031680, I_pack: -20.658, I_cell: -0.898, Power_expected: -1219.5 W, Power_calc: -1219.5 W|
+|Process! Action before optimize: 0.411 kW                         |
+|Process! Optimizer received power: 0.411 kW                       |
+|Process! Solve_current: P=1.2 W, I=0.302 A, Calc=1.2 W            |
+|Process! Solve_current: P=1.2 W, I=0.301 A, Calc=1.2 W            |
+|Process! R_pack: 0.021016, R_cell: 0.032225, I_pack: 6.934, I_cell: 0.301, Power_expected: 411.1 W, Power_calc: 411.1 W|
+|Process! Action before optimize: -0.726 kW                        |
+|Process! Optimizer received power: -0.726 kW                      |
+|Process! Solve_current: P=-2.1 W, I=-0.530 A, Calc=-2.1 W         |
+|Process! Solve_current: P=-2.1 W, I=-0.532 A, Calc=-2.1 W         |
+|Process! R_pack: 0.020878, R_cell: 0.032012, I_pack: -12.234, I_cell: -0.532, Power_expected: -726.4 W, Power_calc: -726.4 W|
+|Process! Action before optimize: -1.119 kW                        |
+|Process! Optimizer received power: -1.119 kW                      |
+|Process! Solve_current: P=-3.2 W, I=-0.806 A, Calc=-3.2 W         |
+|Process! Solve_current: P=-3.2 W, I=-0.809 A, Calc=-3.2 W         |
+|Process! R_pack: 0.021118, R_cell: 0.032381, I_pack: -18.615, I_cell: -0.809, Power_expected: -1118.8 W, Power_calc: -1118.8 W|
+|Process! Action before optimize: 0.953 kW                         |
+|Process! Optimizer received power: 0.953 kW                       |
+|Process! Solve_current: P=2.8 W, I=0.693 A, Calc=2.8 W            |
+|Process! Solve_current: P=2.8 W, I=0.691 A, Calc=2.8 W            |
+|Process! R_pack: 0.021336, R_cell: 0.032715, I_pack: 15.886, I_cell: 0.691, Power_expected: 953.4 W, Power_calc: 953.4 W|
+|Process! Action before optimize: -1.005 kW                        |
+|Process! Optimizer received power: -1.005 kW                      |
+|Process! Solve_current: P=-2.9 W, I=-0.727 A, Calc=-2.9 W         |
+|Process! Solve_current: P=-2.9 W, I=-0.730 A, Calc=-2.9 W         |
+|Process! R_pack: 0.021037, R_cell: 0.032256, I_pack: -16.790, I_cell: -0.730, Power_expected: -1004.9 W, Power_calc: -1004.9 W|
+|Process! Action before optimize: -0.096 kW                        |
+|Process! Optimizer received power: -0.096 kW                      |
+|Process! Solve_current: P=-0.3 W, I=-0.069 A, Calc=-0.3 W         |
+|Process! Solve_current: P=-0.3 W, I=-0.069 A, Calc=-0.3 W         |
+|Process! R_pack: 0.029820, R_cell: 0.045724, I_pack: -1.583, I_cell: -0.069, Power_expected: -95.6 W, Power_calc: -95.6 W|
+|Process! Environment RESET => new episode started                 |
+|Process! Action before optimize: -0.766 kW                        |
+|Process! Optimizer received power: -0.766 kW                      |
+|Process! Solve_current: P=-2.2 W, I=-0.590 A, Calc=-2.2 W         |
+|Process! Solve_current: P=-2.2 W, I=-0.593 A, Calc=-2.2 W         |
+|Process! R_pack: 0.021048, R_cell: 0.032273, I_pack: -13.639, I_cell: -0.593, Power_expected: -765.6 W, Power_calc: -765.6 W|
+|Process! Action before optimize: -0.549 kW                        |
+|Process! Optimizer received power: -0.549 kW                      |
+|Process! Solve_current: P=-1.6 W, I=-0.421 A, Calc=-1.6 W         |
+|Process! Solve_current: P=-1.6 W, I=-0.422 A, Calc=-1.6 W         |
+|Process! R_pack: 0.020949, R_cell: 0.032122, I_pack: -9.706, I_cell: -0.422, Power_expected: -548.6 W, Power_calc: -548.6 W|
+|Process! Action before optimize: 1.639 kW                         |
+|Process! Optimizer received power: 1.639 kW                       |
+|Process! Solve_current: P=4.8 W, I=1.285 A, Calc=4.8 W            |
+|Process! Solve_current: P=4.8 W, I=1.272 A, Calc=4.8 W            |
+|Process! R_pack: 0.020821, R_cell: 0.031926, I_pack: 29.248, I_cell: 1.272, Power_expected: 1639.1 W, Power_calc: 1639.1 W|
+|Process! Action before optimize: 0.278 kW                         |
+|Process! Optimizer received power: 0.278 kW                       |
+|Process! Solve_current: P=0.8 W, I=0.218 A, Calc=0.8 W            |
+|Process! Solve_current: P=0.8 W, I=0.218 A, Calc=0.8 W            |
+|Process! R_pack: 0.021082, R_cell: 0.032326, I_pack: 5.007, I_cell: 0.218, Power_expected: 278.1 W, Power_calc: 278.1 W|
+|Process! Action before optimize: 0.409 kW                         |
+|Process! Optimizer received power: 0.409 kW                       |
+|Process! Solve_current: P=1.2 W, I=0.322 A, Calc=1.2 W            |
+|Process! Solve_current: P=1.2 W, I=0.322 A, Calc=1.2 W            |
+|Process! R_pack: 0.021088, R_cell: 0.032335, I_pack: 7.399, I_cell: 0.322, Power_expected: 409.3 W, Power_calc: 409.3 W|
+|Process! Action before optimize: 0.098 kW                         |
+|Process! Optimizer received power: 0.098 kW                       |
+|Process! Solve_current: P=0.3 W, I=0.077 A, Calc=0.3 W            |
+|Process! Solve_current: P=0.3 W, I=0.077 A, Calc=0.3 W            |
+|Process! R_pack: 0.030794, R_cell: 0.047218, I_pack: 1.778, I_cell: 0.077, Power_expected: 98.1 W, Power_calc: 98.1 W|
+|Process! Action before optimize: -0.292 kW                        |
+|Process! Optimizer received power: -0.292 kW                      |
+|Process! Solve_current: P=-0.8 W, I=-0.229 A, Calc=-0.8 W         |
+|Process! Solve_current: P=-0.8 W, I=-0.230 A, Calc=-0.8 W         |
+|Process! R_pack: 0.021109, R_cell: 0.032367, I_pack: -5.281, I_cell: -0.230, Power_expected: -292.0 W, Power_calc: -292.0 W|
+|Process! Action before optimize: -0.762 kW                        |
+|Process! Optimizer received power: -0.762 kW                      |
+|Process! Solve_current: P=-2.2 W, I=-0.593 A, Calc=-2.2 W         |
+|Process! Solve_current: P=-2.2 W, I=-0.595 A, Calc=-2.2 W         |
+|Process! R_pack: 0.021102, R_cell: 0.032356, I_pack: -13.694, I_cell: -0.595, Power_expected: -761.9 W, Power_calc: -761.9 W|
+|Process! Action before optimize: -1.362 kW                        |
+|Process! Optimizer received power: -1.362 kW                      |
+|Process! Solve_current: P=-3.9 W, I=-1.044 A, Calc=-3.9 W         |
+|Process! Solve_current: P=-3.9 W, I=-1.052 A, Calc=-3.9 W         |
+|Process! R_pack: 0.021058, R_cell: 0.032289, I_pack: -24.186, I_cell: -1.052, Power_expected: -1362.0 W, Power_calc: -1362.0 W|
+|Process! Action before optimize: 0.707 kW                         |
+|Process! Optimizer received power: 0.707 kW                       |
+|Process! Solve_current: P=2.0 W, I=0.547 A, Calc=2.0 W            |
+|Process! Solve_current: P=2.0 W, I=0.545 A, Calc=2.0 W            |
+|Process! R_pack: 0.020825, R_cell: 0.031931, I_pack: 12.534, I_cell: 0.545, Power_expected: 706.8 W, Power_calc: 706.8 W|
+|Process! Action before optimize: 0.217 kW                         |
+|Process! Optimizer received power: 0.217 kW                       |
+|Process! Solve_current: P=0.6 W, I=0.168 A, Calc=0.6 W            |
+|Process! Solve_current: P=0.6 W, I=0.168 A, Calc=0.6 W            |
+|Process! R_pack: 0.023873, R_cell: 0.036605, I_pack: 3.866, I_cell: 0.168, Power_expected: 217.0 W, Power_calc: 217.0 W|
+|Process! Action before optimize: -0.345 kW                        |
+|Process! Optimizer received power: -0.345 kW                      |
+|Process! Solve_current: P=-1.0 W, I=-0.266 A, Calc=-1.0 W         |
+|Process! Solve_current: P=-1.0 W, I=-0.267 A, Calc=-1.0 W         |
+|Process! R_pack: 0.021006, R_cell: 0.032209, I_pack: -6.131, I_cell: -0.267, Power_expected: -344.6 W, Power_calc: -344.6 W|
+|Process! Action before optimize: 0.692 kW                         |
+|Process! Optimizer received power: 0.692 kW                       |
+|Process! Solve_current: P=2.0 W, I=0.539 A, Calc=2.0 W            |
+|Process! Solve_current: P=2.0 W, I=0.537 A, Calc=2.0 W            |
+|Process! R_pack: 0.020957, R_cell: 0.032134, I_pack: 12.341, I_cell: 0.537, Power_expected: 691.5 W, Power_calc: 691.5 W|
+|Process! Action before optimize: 0.035 kW                         |
+|Process! Optimizer received power: 0.035 kW                       |
+|Process! Solve_current: P=0.1 W, I=0.027 A, Calc=0.1 W            |
+|Process! R_pack: 0.039049, R_cell: 0.059875, I_pack: 0.619, I_cell: 0.027, Power_expected: 34.5 W, Power_calc: 34.5 W|
+|Process! Action before optimize: 0.177 kW                         |
+|Process! Optimizer received power: 0.177 kW                       |
+|Process! Solve_current: P=0.5 W, I=0.138 A, Calc=0.5 W            |
+|Process! Solve_current: P=0.5 W, I=0.138 A, Calc=0.5 W            |
+|Process! R_pack: 0.025284, R_cell: 0.038769, I_pack: 3.171, I_cell: 0.138, Power_expected: 176.8 W, Power_calc: 176.8 W|
+|Process! Action before optimize: -0.858 kW                        |
+|Process! Optimizer received power: -0.858 kW                      |
+|Process! Solve_current: P=-2.5 W, I=-0.662 A, Calc=-2.5 W         |
+|Process! Solve_current: P=-2.5 W, I=-0.665 A, Calc=-2.5 W         |
+|Process! R_pack: 0.021070, R_cell: 0.032308, I_pack: -15.301, I_cell: -0.665, Power_expected: -857.5 W, Power_calc: -857.5 W|
+|Process! Action before optimize: -1.098 kW                        |
+|Process! Optimizer received power: -1.098 kW                      |
+|Process! Solve_current: P=-3.2 W, I=-0.837 A, Calc=-3.2 W         |
+|Process! Solve_current: P=-3.2 W, I=-0.842 A, Calc=-3.2 W         |
+|Process! R_pack: 0.020964, R_cell: 0.032145, I_pack: -19.369, I_cell: -0.842, Power_expected: -1097.6 W, Power_calc: -1097.6 W|
+|Process! Action before optimize: 0.707 kW                         |
+|Process! Optimizer received power: 0.707 kW                       |
+|Process! Solve_current: P=2.0 W, I=0.545 A, Calc=2.0 W            |
+|Process! Solve_current: P=2.0 W, I=0.542 A, Calc=2.0 W            |
+|Process! R_pack: 0.020620, R_cell: 0.031617, I_pack: 12.467, I_cell: 0.542, Power_expected: 706.7 W, Power_calc: 706.7 W|
+|Process! Action before optimize: 1.287 kW                         |
+|Process! Optimizer received power: 1.287 kW                       |
+|Process! Solve_current: P=3.7 W, I=1.007 A, Calc=3.7 W            |
+|Process! Solve_current: P=3.7 W, I=0.999 A, Calc=3.7 W            |
+|Process! R_pack: 0.020883, R_cell: 0.032020, I_pack: 22.977, I_cell: 0.999, Power_expected: 1287.4 W, Power_calc: 1287.4 W|
+|Process! Action before optimize: -1.151 kW                        |
+|Process! Optimizer received power: -1.151 kW                      |
+|Process! Solve_current: P=-3.3 W, I=-0.886 A, Calc=-3.3 W         |
+|Process! Solve_current: P=-3.3 W, I=-0.892 A, Calc=-3.3 W         |
+|Process! R_pack: 0.021068, R_cell: 0.032304, I_pack: -20.513, I_cell: -0.892, Power_expected: -1151.2 W, Power_calc: -1151.2 W|
+|Process! Action before optimize: 0.640 kW                         |
+|Process! Optimizer received power: 0.640 kW                       |
+|Process! Solve_current: P=1.9 W, I=0.497 A, Calc=1.9 W            |
+|Process! Solve_current: P=1.9 W, I=0.495 A, Calc=1.9 W            |
+|Process! R_pack: 0.020919, R_cell: 0.032076, I_pack: 11.387, I_cell: 0.495, Power_expected: 639.8 W, Power_calc: 639.8 W|
+|Process! Action before optimize: 0.108 kW                         |
+|Process! Optimizer received power: 0.108 kW                       |
+|Process! Solve_current: P=0.3 W, I=0.084 A, Calc=0.3 W            |
+|Process! Solve_current: P=0.3 W, I=0.084 A, Calc=0.3 W            |
+|Process! R_pack: 0.029931, R_cell: 0.045895, I_pack: 1.930, I_cell: 0.084, Power_expected: 108.0 W, Power_calc: 108.0 W|
+|Process! Action before optimize: -0.271 kW                        |
+|Process! Optimizer received power: -0.271 kW                      |
+|Process! Solve_current: P=-0.8 W, I=-0.210 A, Calc=-0.8 W         |
+|Process! Solve_current: P=-0.8 W, I=-0.210 A, Calc=-0.8 W         |
+|Process! R_pack: 0.021561, R_cell: 0.033060, I_pack: -4.829, I_cell: -0.210, Power_expected: -270.7 W, Power_calc: -270.7 W|
+|Process! Action before optimize: -0.938 kW                        |
+|Process! Optimizer received power: -0.938 kW                      |
+|Process! Solve_current: P=-2.7 W, I=-0.718 A, Calc=-2.7 W         |
+|Process! Solve_current: P=-2.7 W, I=-0.722 A, Calc=-2.7 W         |
+|Process! R_pack: 0.020994, R_cell: 0.032191, I_pack: -16.604, I_cell: -0.722, Power_expected: -937.6 W, Power_calc: -937.6 W|
+|Process! Action before optimize: -1.204 kW                        |
+|Process! Optimizer received power: -1.204 kW                      |
+|Process! Solve_current: P=-3.5 W, I=-0.909 A, Calc=-3.5 W         |
+|Process! Solve_current: P=-3.5 W, I=-0.916 A, Calc=-3.5 W         |
+|Process! R_pack: 0.020795, R_cell: 0.031885, I_pack: -21.065, I_cell: -0.916, Power_expected: -1203.9 W, Power_calc: -1203.9 W|
+|Process! Action before optimize: 0.866 kW                         |
+|Process! Optimizer received power: 0.866 kW                       |
+|Process! Solve_current: P=2.5 W, I=0.664 A, Calc=2.5 W            |
+|Process! Solve_current: P=2.5 W, I=0.659 A, Calc=2.5 W            |
+|Process! R_pack: 0.019978, R_cell: 0.030633, I_pack: 15.166, I_cell: 0.659, Power_expected: 866.4 W, Power_calc: 866.4 W|
+|Process! Action before optimize: -1.862 kW                        |
+|Process! Optimizer received power: -1.862 kW                      |
+|Process! Solve_current: P=-5.4 W, I=-1.389 A, Calc=-5.4 W         |
+|Process! Solve_current: P=-5.4 W, I=-1.406 A, Calc=-5.4 W         |
+|Process! R_pack: 0.020641, R_cell: 0.031649, I_pack: -32.328, I_cell: -1.406, Power_expected: -1861.6 W, Power_calc: -1861.6 W|
+|Process! Action before optimize: -0.661 kW                        |
+|Process! Optimizer received power: -0.661 kW                      |
+|Process! Solve_current: P=-1.9 W, I=-0.492 A, Calc=-1.9 W         |
+|Process! Solve_current: P=-1.9 W, I=-0.494 A, Calc=-1.9 W         |
+|Process! R_pack: 0.020160, R_cell: 0.030912, I_pack: -11.360, I_cell: -0.494, Power_expected: -661.0 W, Power_calc: -661.0 W|
+|Process! Action before optimize: 0.788 kW                         |
+|Process! Optimizer received power: 0.788 kW                       |
+|Process! Solve_current: P=2.3 W, I=0.594 A, Calc=2.3 W            |
+|Process! Solve_current: P=2.3 W, I=0.591 A, Calc=2.3 W            |
+|Process! R_pack: 0.020470, R_cell: 0.031388, I_pack: 13.593, I_cell: 0.591, Power_expected: 788.5 W, Power_calc: 788.5 W|
+|Process! Action before optimize: 0.315 kW                         |
+|Process! Optimizer received power: 0.315 kW                       |
+|Process! Solve_current: P=0.9 W, I=0.237 A, Calc=0.9 W            |
+|Process! Solve_current: P=0.9 W, I=0.237 A, Calc=0.9 W            |
+|Process! R_pack: 0.020096, R_cell: 0.030814, I_pack: 5.446, I_cell: 0.237, Power_expected: 314.7 W, Power_calc: 314.7 W|
+|Process! Action before optimize: 1.468 kW                         |
+|Process! Optimizer received power: 1.468 kW                       |
+|Process! Solve_current: P=4.3 W, I=1.129 A, Calc=4.3 W            |
+|Process! Solve_current: P=4.3 W, I=1.115 A, Calc=4.3 W            |
+|Process! R_pack: 0.019969, R_cell: 0.030619, I_pack: 25.650, I_cell: 1.115, Power_expected: 1467.6 W, Power_calc: 1467.6 W|
+|Process! Action before optimize: 0.170 kW                         |
+|Process! Optimizer received power: 0.170 kW                       |
+|Process! Solve_current: P=0.5 W, I=0.130 A, Calc=0.5 W            |
+|Process! Solve_current: P=0.5 W, I=0.130 A, Calc=0.5 W            |
+|Process! R_pack: 0.026421, R_cell: 0.040512, I_pack: 2.993, I_cell: 0.130, Power_expected: 170.0 W, Power_calc: 170.0 W|
+|Process! Action before optimize: -0.027 kW                        |
+|Process! Optimizer received power: -0.027 kW                      |
+|Process! Solve_current: P=-0.1 W, I=-0.020 A, Calc=-0.1 W         |
+|Process! R_pack: 0.041481, R_cell: 0.063605, I_pack: -0.468, I_cell: -0.020, Power_expected: -26.6 W, Power_calc: -26.6 W|
+|Process! Action before optimize: -0.000 kW                        |
+|Process! Optimizer received power: -0.000 kW                      |
+|Process! Solve_current: P=-0.0 W, I=-0.000 A, Calc=-0.0 W         |
+|Process! R_pack: 0.041589, R_cell: 0.063769, I_pack: -0.000, I_cell: -0.000, Power_expected: -0.0 W, Power_calc: -0.0 W|
+|Process! Action before optimize: -0.857 kW                        |
+|Process! Optimizer received power: -0.857 kW                      |
+|Process! Solve_current: P=-2.5 W, I=-0.649 A, Calc=-2.5 W         |
+|Process! Solve_current: P=-2.5 W, I=-0.653 A, Calc=-2.5 W         |
+|Process! R_pack: 0.020758, R_cell: 0.031828, I_pack: -15.011, I_cell: -0.653, Power_expected: -857.0 W, Power_calc: -857.0 W|
+|Process! Action before optimize: 0.225 kW                         |
+|Process! Optimizer received power: 0.225 kW                       |
+|Process! Solve_current: P=0.7 W, I=0.171 A, Calc=0.7 W            |
+|Process! Solve_current: P=0.7 W, I=0.171 A, Calc=0.7 W            |
+|Process! R_pack: 0.022899, R_cell: 0.035111, I_pack: 3.930, I_cell: 0.171, Power_expected: 224.9 W, Power_calc: 224.9 W|
+|Process! Action before optimize: 1.632 kW                         |
+|Process! Optimizer received power: 1.632 kW                       |
+|Process! Solve_current: P=4.7 W, I=1.271 A, Calc=4.7 W            |
+|Process! Solve_current: P=4.7 W, I=1.254 A, Calc=4.7 W            |
+|Process! R_pack: 0.020305, R_cell: 0.031135, I_pack: 28.850, I_cell: 1.254, Power_expected: 1632.4 W, Power_calc: 1632.4 W|
+|Process! Action before optimize: 0.431 kW                         |
+|Process! Optimizer received power: 0.431 kW                       |
+|Process! Solve_current: P=1.2 W, I=0.336 A, Calc=1.2 W            |
+|Process! Solve_current: P=1.2 W, I=0.335 A, Calc=1.2 W            |
+|Process! R_pack: 0.020995, R_cell: 0.032192, I_pack: 7.700, I_cell: 0.335, Power_expected: 430.8 W, Power_calc: 430.8 W|
+|Process! Action before optimize: 0.124 kW                         |
+|Process! Optimizer received power: 0.124 kW                       |
+|Process! Solve_current: P=0.4 W, I=0.097 A, Calc=0.4 W            |
+|Process! Solve_current: P=0.4 W, I=0.097 A, Calc=0.4 W            |
+|Process! R_pack: 0.028628, R_cell: 0.043897, I_pack: 2.233, I_cell: 0.097, Power_expected: 124.5 W, Power_calc: 124.5 W|
+|Process! Action before optimize: 0.383 kW                         |
+|Process! Optimizer received power: 0.383 kW                       |
+|Process! Solve_current: P=1.1 W, I=0.300 A, Calc=1.1 W            |
+|Process! Solve_current: P=1.1 W, I=0.299 A, Calc=1.1 W            |
+|Process! R_pack: 0.021062, R_cell: 0.032295, I_pack: 6.888, I_cell: 0.299, Power_expected: 383.0 W, Power_calc: 383.0 W|
+|Process! Action before optimize: 1.678 kW                         |
+|Process! Optimizer received power: 1.678 kW                       |
+|Process! Solve_current: P=4.9 W, I=1.344 A, Calc=4.9 W            |
+|Process! Solve_current: P=4.9 W, I=1.330 A, Calc=4.9 W            |
+|Process! R_pack: 0.021093, R_cell: 0.032343, I_pack: 30.592, I_cell: 1.330, Power_expected: 1677.9 W, Power_calc: 1677.9 W|
+|Process! Action before optimize: 0.854 kW                         |
+|Process! Optimizer received power: 0.854 kW                       |
+|Process! Solve_current: P=2.5 W, I=0.689 A, Calc=2.5 W            |
+|Process! Solve_current: P=2.5 W, I=0.685 A, Calc=2.5 W            |
+|Process! R_pack: 0.021096, R_cell: 0.032347, I_pack: 15.762, I_cell: 0.685, Power_expected: 854.1 W, Power_calc: 854.1 W|
+|Process! Action before optimize: -0.544 kW                        |
+|Process! Optimizer received power: -0.544 kW                      |
+|Process! Solve_current: P=-1.6 W, I=-0.434 A, Calc=-1.6 W         |
+|Process! Solve_current: P=-1.6 W, I=-0.436 A, Calc=-1.6 W         |
+|Process! R_pack: 0.020949, R_cell: 0.032122, I_pack: -10.021, I_cell: -0.436, Power_expected: -544.0 W, Power_calc: -544.0 W|
+|Process! Action before optimize: -0.045 kW                        |
+|Process! Optimizer received power: -0.045 kW                      |
+|Process! Solve_current: P=-0.1 W, I=-0.036 A, Calc=-0.1 W         |
+|Process! Solve_current: P=-0.1 W, I=-0.036 A, Calc=-0.1 W         |
+|Process! R_pack: 0.037900, R_cell: 0.058114, I_pack: -0.825, I_cell: -0.036, Power_expected: -44.9 W, Power_calc: -44.9 W|
+|Process! Action before optimize: 1.569 kW                         |
+|Process! Optimizer received power: 1.569 kW                       |
+|Process! Solve_current: P=4.5 W, I=1.283 A, Calc=4.5 W            |
+|Process! Solve_current: P=4.5 W, I=1.269 A, Calc=4.5 W            |
+|Process! R_pack: 0.021082, R_cell: 0.032326, I_pack: 29.188, I_cell: 1.269, Power_expected: 1569.3 W, Power_calc: 1569.3 W|
+|Process! Action before optimize: -0.693 kW                        |
+|Process! Optimizer received power: -0.693 kW                      |
+|Process! Solve_current: P=-2.0 W, I=-0.556 A, Calc=-2.0 W         |
+|Process! Solve_current: P=-2.0 W, I=-0.560 A, Calc=-2.0 W         |
+|Process! R_pack: 0.020452, R_cell: 0.031360, I_pack: -12.881, I_cell: -0.560, Power_expected: -693.1 W, Power_calc: -693.1 W|
+|Process! Action before optimize: -1.386 kW                        |
+|Process! Optimizer received power: -1.386 kW                      |
+|Process! Solve_current: P=-4.0 W, I=-1.095 A, Calc=-4.0 W         |
+|Process! Solve_current: P=-4.0 W, I=-1.107 A, Calc=-4.0 W         |
+|Process! R_pack: 0.020806, R_cell: 0.031903, I_pack: -25.462, I_cell: -1.107, Power_expected: -1386.3 W, Power_calc: -1386.3 W|
+|Process! Action before optimize: 1.234 kW                         |
+|Process! Optimizer received power: 1.234 kW                       |
+|Process! Solve_current: P=3.6 W, I=0.998 A, Calc=3.6 W            |
+|Process! Solve_current: P=3.6 W, I=0.990 A, Calc=3.6 W            |
+|Process! R_pack: 0.021109, R_cell: 0.032367, I_pack: 22.781, I_cell: 0.990, Power_expected: 1234.1 W, Power_calc: 1234.1 W|
+|Process! Action before optimize: -1.742 kW                        |
+|Process! Optimizer received power: -1.742 kW                      |
+|Process! Solve_current: P=-5.1 W, I=-1.368 A, Calc=-5.1 W         |
+|Process! Solve_current: P=-5.1 W, I=-1.386 A, Calc=-5.1 W         |
+|Process! R_pack: 0.020881, R_cell: 0.032017, I_pack: -31.876, I_cell: -1.386, Power_expected: -1742.3 W, Power_calc: -1742.3 W|
+|Process! Action before optimize: 0.474 kW                         |
+|Process! Optimizer received power: 0.474 kW                       |
+|Process! Solve_current: P=1.4 W, I=0.378 A, Calc=1.4 W            |
+|Process! Solve_current: P=1.4 W, I=0.377 A, Calc=1.4 W            |
+|Process! R_pack: 0.021120, R_cell: 0.032384, I_pack: 8.663, I_cell: 0.377, Power_expected: 474.3 W, Power_calc: 474.3 W|
+|Process! Action before optimize: -1.583 kW                        |
+|Process! Optimizer received power: -1.583 kW                      |
+|Process! Solve_current: P=-4.6 W, I=-1.234 A, Calc=-4.6 W         |
+|Process! Solve_current: P=-4.6 W, I=-1.245 A, Calc=-4.6 W         |
+|Process! R_pack: 0.021109, R_cell: 0.032368, I_pack: -28.634, I_cell: -1.245, Power_expected: -1582.6 W, Power_calc: -1582.6 W|
+|Process! Action before optimize: 0.406 kW                         |
+|Process! Optimizer received power: 0.406 kW                       |
+|Process! Solve_current: P=1.2 W, I=0.319 A, Calc=1.2 W            |
+|Process! Solve_current: P=1.2 W, I=0.318 A, Calc=1.2 W            |
+|Process! R_pack: 0.021080, R_cell: 0.032323, I_pack: 7.314, I_cell: 0.318, Power_expected: 405.7 W, Power_calc: 405.7 W|
+|Process! Action before optimize: -0.121 kW                        |
+|Process! Optimizer received power: -0.121 kW                      |
+|Process! Solve_current: P=-0.4 W, I=-0.095 A, Calc=-0.4 W         |
+|Process! Solve_current: P=-0.4 W, I=-0.095 A, Calc=-0.4 W         |
+|Process! R_pack: 0.028492, R_cell: 0.043687, I_pack: -2.182, I_cell: -0.095, Power_expected: -120.9 W, Power_calc: -120.9 W|
+|Process! Action before optimize: -0.459 kW                        |
+|Process! Optimizer received power: -0.459 kW                      |
+|Process! Solve_current: P=-1.3 W, I=-0.358 A, Calc=-1.3 W         |
+|Process! Solve_current: P=-1.3 W, I=-0.359 A, Calc=-1.3 W         |
+|Process! R_pack: 0.021093, R_cell: 0.032343, I_pack: -8.255, I_cell: -0.359, Power_expected: -459.1 W, Power_calc: -459.1 W|
+|Process! Action before optimize: 0.118 kW                         |
+|Process! Optimizer received power: 0.118 kW                       |
+|Process! Solve_current: P=0.3 W, I=0.092 A, Calc=0.3 W            |
+|Process! Solve_current: P=0.3 W, I=0.092 A, Calc=0.3 W            |
+|Process! R_pack: 0.029806, R_cell: 0.045703, I_pack: 2.122, I_cell: 0.092, Power_expected: 118.1 W, Power_calc: 118.1 W|
+|Process! Action before optimize: 0.336 kW                         |
+|Process! Optimizer received power: 0.336 kW                       |
+|Process! Solve_current: P=1.0 W, I=0.264 A, Calc=1.0 W            |
+|Process! Solve_current: P=1.0 W, I=0.263 A, Calc=1.0 W            |
+|Process! R_pack: 0.021078, R_cell: 0.032319, I_pack: 6.054, I_cell: 0.263, Power_expected: 336.2 W, Power_calc: 336.2 W|
+|Process! Action before optimize: 0.623 kW                         |
+|Process! Optimizer received power: 0.623 kW                       |
+|Process! Solve_current: P=1.8 W, I=0.492 A, Calc=1.8 W            |
+|Process! Solve_current: P=1.8 W, I=0.491 A, Calc=1.8 W            |
+|Process! R_pack: 0.021094, R_cell: 0.032344, I_pack: 11.284, I_cell: 0.491, Power_expected: 622.9 W, Power_calc: 622.9 W|
+|Process! Action before optimize: 1.214 kW                         |
+|Process! Optimizer received power: 1.214 kW                       |
+|Process! Solve_current: P=3.5 W, I=0.974 A, Calc=3.5 W            |
+|Process! Solve_current: P=3.5 W, I=0.967 A, Calc=3.5 W            |
+|Process! R_pack: 0.021113, R_cell: 0.032373, I_pack: 22.245, I_cell: 0.967, Power_expected: 1214.2 W, Power_calc: 1214.2 W|
+|Process! Action before optimize: -0.710 kW                        |
+|Process! Optimizer received power: -0.710 kW                      |
+|Process! Solve_current: P=-2.1 W, I=-0.562 A, Calc=-2.1 W         |
+|Process! Solve_current: P=-2.1 W, I=-0.565 A, Calc=-2.1 W         |
+|Process! R_pack: 0.021081, R_cell: 0.032324, I_pack: -12.995, I_cell: -0.565, Power_expected: -710.0 W, Power_calc: -710.0 W|
+|Process! Action before optimize: -0.914 kW                        |
+|Process! Optimizer received power: -0.914 kW                      |
+|Process! Solve_current: P=-2.7 W, I=-0.718 A, Calc=-2.7 W         |
+|Process! Solve_current: P=-2.7 W, I=-0.721 A, Calc=-2.7 W         |
+|Process! R_pack: 0.021109, R_cell: 0.032367, I_pack: -16.593, I_cell: -0.721, Power_expected: -914.4 W, Power_calc: -914.4 W|
+|Process! Action before optimize: 2.063 kW                         |
+|Process! Optimizer received power: 2.063 kW                       |
+|Process! Solve_current: P=6.0 W, I=1.666 A, Calc=6.0 W            |
+|Process! Solve_current: P=6.0 W, I=1.646 A, Calc=6.0 W            |
+|Process! R_pack: 0.021099, R_cell: 0.032352, I_pack: 37.848, I_cell: 1.646, Power_expected: 2062.9 W, Power_calc: 2062.9 W|
+|Process! Action before optimize: 0.925 kW                         |
+|Process! Optimizer received power: 0.925 kW                       |
+|Process! Solve_current: P=2.7 W, I=0.753 A, Calc=2.7 W            |
+|Process! Solve_current: P=2.7 W, I=0.748 A, Calc=2.7 W            |
+|Process! R_pack: 0.020970, R_cell: 0.032153, I_pack: 17.207, I_cell: 0.748, Power_expected: 925.0 W, Power_calc: 925.0 W|
+|Process! Action before optimize: 0.901 kW                         |
+|Process! Optimizer received power: 0.901 kW                       |
+|Process! Solve_current: P=2.6 W, I=0.743 A, Calc=2.6 W            |
+|Process! Solve_current: P=2.6 W, I=0.736 A, Calc=2.6 W            |
+|Process! R_pack: 0.020489, R_cell: 0.031416, I_pack: 16.923, I_cell: 0.736, Power_expected: 901.3 W, Power_calc: 901.3 W|
+|Process! Action before optimize: 0.026 kW                         |
+|Process! Optimizer received power: 0.026 kW                       |
+|Process! Solve_current: P=0.1 W, I=0.022 A, Calc=0.1 W            |
+|Process! R_pack: 0.057368, R_cell: 0.087964, I_pack: 0.496, I_cell: 0.022, Power_expected: 26.3 W, Power_calc: 26.3 W|
+|Process! Action before optimize: 1.027 kW                         |
+|Process! Optimizer received power: 1.027 kW                       |
+|Process! Solve_current: P=3.0 W, I=0.860 A, Calc=3.0 W            |
+|Process! Solve_current: P=3.0 W, I=0.848 A, Calc=3.0 W            |
+|Process! R_pack: 0.020295, R_cell: 0.031119, I_pack: 19.502, I_cell: 0.848, Power_expected: 1027.3 W, Power_calc: 1027.3 W|
+|Process! Action before optimize: -0.777 kW                        |
+|Process! Optimizer received power: -0.777 kW                      |
+|Process! Solve_current: P=-2.3 W, I=-0.634 A, Calc=-2.3 W         |
+|Process! Solve_current: P=-2.3 W, I=-0.641 A, Calc=-2.3 W         |
+|Process! R_pack: 0.020204, R_cell: 0.030980, I_pack: -14.748, I_cell: -0.641, Power_expected: -776.6 W, Power_calc: -776.6 W|
+|Process! Action before optimize: 0.016 kW                         |
+|Process! Optimizer received power: 0.016 kW                       |
+|Process! Solve_current: P=0.0 W, I=0.013 A, Calc=0.0 W            |
+|Process! R_pack: 0.059367, R_cell: 0.091030, I_pack: 0.304, I_cell: 0.013, Power_expected: 16.1 W, Power_calc: 16.1 W|
+|Process! Action before optimize: -0.629 kW                        |
+|Process! Optimizer received power: -0.629 kW                      |
+|Process! Solve_current: P=-1.8 W, I=-0.510 A, Calc=-1.8 W         |
+|Process! Solve_current: P=-1.8 W, I=-0.515 A, Calc=-1.8 W         |
+|Process! R_pack: 0.020310, R_cell: 0.031142, I_pack: -11.837, I_cell: -0.515, Power_expected: -629.1 W, Power_calc: -629.1 W|
+|Process! Action before optimize: 0.443 kW                         |
+|Process! Optimizer received power: 0.443 kW                       |
+|Process! Solve_current: P=1.3 W, I=0.365 A, Calc=1.3 W            |
+|Process! Solve_current: P=1.3 W, I=0.363 A, Calc=1.3 W            |
+|Process! R_pack: 0.020372, R_cell: 0.031237, I_pack: 8.346, I_cell: 0.363, Power_expected: 443.3 W, Power_calc: 443.3 W|
+|Process! Action before optimize: -0.155 kW                        |
+|Process! Optimizer received power: -0.155 kW                      |
+|Process! Solve_current: P=-0.4 W, I=-0.127 A, Calc=-0.4 W         |
+|Process! Solve_current: P=-0.4 W, I=-0.127 A, Calc=-0.4 W         |
+|Process! R_pack: 0.029200, R_cell: 0.044773, I_pack: -2.920, I_cell: -0.127, Power_expected: -155.1 W, Power_calc: -155.1 W|
+|Process! Action before optimize: 1.311 kW                         |
+|Process! Optimizer received power: 1.311 kW                       |
+|Process! Solve_current: P=3.8 W, I=1.103 A, Calc=3.8 W            |
+|Process! Solve_current: P=3.8 W, I=1.084 A, Calc=3.8 W            |
+|Process! R_pack: 0.020311, R_cell: 0.031144, I_pack: 24.922, I_cell: 1.084, Power_expected: 1311.1 W, Power_calc: 1311.1 W|
+|Process! Action before optimize: -1.643 kW                        |
+|Process! Optimizer received power: -1.643 kW                      |
+|Process! Solve_current: P=-4.8 W, I=-1.325 A, Calc=-4.8 W         |
+|Process! Solve_current: P=-4.8 W, I=-1.353 A, Calc=-4.8 W         |
+|Process! R_pack: 0.020524, R_cell: 0.031470, I_pack: -31.111, I_cell: -1.353, Power_expected: -1643.4 W, Power_calc: -1643.4 W|
+|Process! Action before optimize: -0.185 kW                        |
+|Process! Optimizer received power: -0.185 kW                      |
+|Process! Solve_current: P=-0.5 W, I=-0.151 A, Calc=-0.5 W         |
+|Process! Solve_current: P=-0.5 W, I=-0.151 A, Calc=-0.5 W         |
+|Process! R_pack: 0.026068, R_cell: 0.039971, I_pack: -3.472, I_cell: -0.151, Power_expected: -185.4 W, Power_calc: -185.4 W|
+|Process! Action before optimize: -0.322 kW                        |
+|Process! Optimizer received power: -0.322 kW                      |
+|Process! Solve_current: P=-0.9 W, I=-0.261 A, Calc=-0.9 W         |
+|Process! Solve_current: P=-0.9 W, I=-0.262 A, Calc=-0.9 W         |
+|Process! R_pack: 0.020411, R_cell: 0.031298, I_pack: -6.017, I_cell: -0.262, Power_expected: -322.2 W, Power_calc: -322.2 W|
+|Process! Action before optimize: 0.643 kW                         |
+|Process! Optimizer received power: 0.643 kW                       |
+|Process! Solve_current: P=1.9 W, I=0.528 A, Calc=1.9 W            |
+|Process! Solve_current: P=1.9 W, I=0.524 A, Calc=1.9 W            |
+|Process! R_pack: 0.020492, R_cell: 0.031422, I_pack: 12.056, I_cell: 0.524, Power_expected: 643.2 W, Power_calc: 643.2 W|
+|Process! Action before optimize: -0.282 kW                        |
+|Process! Optimizer received power: -0.282 kW                      |
+|Process! Solve_current: P=-0.8 W, I=-0.229 A, Calc=-0.8 W         |
+|Process! Solve_current: P=-0.8 W, I=-0.230 A, Calc=-0.8 W         |
+|Process! R_pack: 0.020362, R_cell: 0.031221, I_pack: -5.288, I_cell: -0.230, Power_expected: -282.0 W, Power_calc: -282.0 W|
+|Process! Action before optimize: -1.581 kW                        |
+|Process! Optimizer received power: -1.581 kW                      |
+|Process! Solve_current: P=-4.6 W, I=-1.252 A, Calc=-4.6 W         |
+|Process! Solve_current: P=-4.6 W, I=-1.273 A, Calc=-4.6 W         |
+|Process! R_pack: 0.020402, R_cell: 0.031283, I_pack: -29.287, I_cell: -1.273, Power_expected: -1581.3 W, Power_calc: -1581.3 W|
+|Process! Action before optimize: -0.026 kW                        |
+|Process! Optimizer received power: -0.026 kW                      |
+|Process! Solve_current: P=-0.1 W, I=-0.021 A, Calc=-0.1 W         |
+|Process! R_pack: 0.040738, R_cell: 0.062465, I_pack: -0.478, I_cell: -0.021, Power_expected: -26.0 W, Power_calc: -26.0 W|
+|Process! Action before optimize: 0.367 kW                         |
+|Process! Optimizer received power: 0.367 kW                       |
+|Process! Solve_current: P=1.1 W, I=0.295 A, Calc=1.1 W            |
+|Process! Solve_current: P=1.1 W, I=0.295 A, Calc=1.1 W            |
+|Process! R_pack: 0.021057, R_cell: 0.032287, I_pack: 6.774, I_cell: 0.295, Power_expected: 366.8 W, Power_calc: 366.8 W|
+|Process! Action before optimize: 0.738 kW                         |
+|Process! Optimizer received power: 0.738 kW                       |
+|Process! Solve_current: P=2.1 W, I=0.600 A, Calc=2.1 W            |
+|Process! Solve_current: P=2.1 W, I=0.596 A, Calc=2.1 W            |
+|Process! R_pack: 0.020959, R_cell: 0.032138, I_pack: 13.717, I_cell: 0.596, Power_expected: 738.0 W, Power_calc: 738.0 W|
+|Process! Action before optimize: -1.251 kW                        |
+|Process! Optimizer received power: -1.251 kW                      |
+|Process! Solve_current: P=-3.6 W, I=-0.993 A, Calc=-3.6 W         |
+|Process! Solve_current: P=-3.6 W, I=-1.004 A, Calc=-3.6 W         |
+|Process! R_pack: 0.020554, R_cell: 0.031517, I_pack: -23.100, I_cell: -1.004, Power_expected: -1250.9 W, Power_calc: -1250.9 W|
+|Process! Action before optimize: 0.211 kW                         |
+|Process! Optimizer received power: 0.211 kW                       |
+|Process! Solve_current: P=0.6 W, I=0.169 A, Calc=0.6 W            |
+|Process! Solve_current: P=0.6 W, I=0.169 A, Calc=0.6 W            |
+|Process! R_pack: 0.023284, R_cell: 0.035702, I_pack: 3.892, I_cell: 0.169, Power_expected: 211.3 W, Power_calc: 211.3 W|
+|Process! Action before optimize: -0.601 kW                        |
+|Process! Optimizer received power: -0.601 kW                      |
+|Process! Solve_current: P=-1.7 W, I=-0.477 A, Calc=-1.7 W         |
+|Process! Solve_current: P=-1.7 W, I=-0.479 A, Calc=-1.7 W         |
+|Process! R_pack: 0.021043, R_cell: 0.032266, I_pack: -11.026, I_cell: -0.479, Power_expected: -600.7 W, Power_calc: -600.7 W|
+|Process! Action before optimize: -0.204 kW                        |
+|Process! Optimizer received power: -0.204 kW                      |
+|Process! Solve_current: P=-0.6 W, I=-0.162 A, Calc=-0.6 W         |
+|Process! Solve_current: P=-0.6 W, I=-0.162 A, Calc=-0.6 W         |
+|Process! R_pack: 0.023940, R_cell: 0.036708, I_pack: -3.728, I_cell: -0.162, Power_expected: -203.9 W, Power_calc: -203.9 W|
+|Process! Action before optimize: -0.131 kW                        |
+|Process! Optimizer received power: -0.131 kW                      |
+|Process! Solve_current: P=-0.4 W, I=-0.104 A, Calc=-0.4 W         |
+|Process! Solve_current: P=-0.4 W, I=-0.104 A, Calc=-0.4 W         |
+|Process! R_pack: 0.027408, R_cell: 0.042026, I_pack: -2.392, I_cell: -0.104, Power_expected: -131.0 W, Power_calc: -131.0 W|
+|Process! Action before optimize: 0.009 kW                         |
+|Process! Optimizer received power: 0.009 kW                       |
+|Process! Solve_current: P=0.0 W, I=0.007 A, Calc=0.0 W            |
+|Process! R_pack: 0.038680, R_cell: 0.059310, I_pack: 0.161, I_cell: 0.007, Power_expected: 8.8 W, Power_calc: 8.8 W|
+|Process! Action before optimize: 1.103 kW                         |
+|Process! Optimizer received power: 1.103 kW                       |
+|Process! Solve_current: P=3.2 W, I=0.888 A, Calc=3.2 W            |
+|Process! Solve_current: P=3.2 W, I=0.882 A, Calc=3.2 W            |
+|Process! R_pack: 0.021115, R_cell: 0.032377, I_pack: 20.287, I_cell: 0.882, Power_expected: 1102.7 W, Power_calc: 1102.7 W|
+|Process! Action before optimize: -0.038 kW                        |
+|Process! Optimizer received power: -0.038 kW                      |
+|Process! Solve_current: P=-0.1 W, I=-0.030 A, Calc=-0.1 W         |
+|Process! Solve_current: P=-0.1 W, I=-0.030 A, Calc=-0.1 W         |
+|Process! R_pack: 0.039186, R_cell: 0.060086, I_pack: -0.699, I_cell: -0.030, Power_expected: -37.9 W, Power_calc: -37.9 W|
+|Process! Action before optimize: 0.319 kW                         |
+|Process! Optimizer received power: 0.319 kW                       |
+|Process! Solve_current: P=0.9 W, I=0.257 A, Calc=0.9 W            |
+|Process! Solve_current: P=0.9 W, I=0.257 A, Calc=0.9 W            |
+|Process! R_pack: 0.021010, R_cell: 0.032215, I_pack: 5.901, I_cell: 0.257, Power_expected: 318.9 W, Power_calc: 318.9 W|
+|Process! Action before optimize: -0.998 kW                        |
+|Process! Optimizer received power: -0.998 kW                      |
+|Process! Solve_current: P=-2.9 W, I=-0.792 A, Calc=-2.9 W         |
+|Process! Solve_current: P=-2.9 W, I=-0.798 A, Calc=-2.9 W         |
+|Process! R_pack: 0.020882, R_cell: 0.032019, I_pack: -18.345, I_cell: -0.798, Power_expected: -997.6 W, Power_calc: -997.6 W|
+|Process! Action before optimize: 0.253 kW                         |
+|Process! Optimizer received power: 0.253 kW                       |
+|Process! Solve_current: P=0.7 W, I=0.202 A, Calc=0.7 W            |
+|Process! Solve_current: P=0.7 W, I=0.202 A, Calc=0.7 W            |
+|Process! R_pack: 0.021635, R_cell: 0.033174, I_pack: 4.641, I_cell: 0.202, Power_expected: 252.7 W, Power_calc: 252.7 W|
+|Process! Action before optimize: -1.484 kW                        |
+|Process! Optimizer received power: -1.484 kW                      |
+|Process! Solve_current: P=-4.3 W, I=-1.163 A, Calc=-4.3 W         |
+|Process! Solve_current: P=-4.3 W, I=-1.173 A, Calc=-4.3 W         |
+|Process! R_pack: 0.021089, R_cell: 0.032336, I_pack: -26.988, I_cell: -1.173, Power_expected: -1483.8 W, Power_calc: -1483.8 W|
+|Process! Action before optimize: -1.658 kW                        |
+|Process! Optimizer received power: -1.658 kW                      |
+|Process! Solve_current: P=-4.8 W, I=-1.277 A, Calc=-4.8 W         |
+|Process! Solve_current: P=-4.8 W, I=-1.289 A, Calc=-4.8 W         |
+|Process! R_pack: 0.021101, R_cell: 0.032355, I_pack: -29.643, I_cell: -1.289, Power_expected: -1658.1 W, Power_calc: -1658.1 W|
+|Process! Action before optimize: 0.634 kW                         |
+|Process! Optimizer received power: 0.634 kW                       |
+|Process! Solve_current: P=1.8 W, I=0.492 A, Calc=1.8 W            |
+|Process! Solve_current: P=1.8 W, I=0.490 A, Calc=1.8 W            |
+|Process! R_pack: 0.020892, R_cell: 0.032034, I_pack: 11.266, I_cell: 0.490, Power_expected: 633.8 W, Power_calc: 633.8 W|
+|Process! Action before optimize: -1.175 kW                        |
+|Process! Optimizer received power: -1.175 kW                      |
+|Process! Solve_current: P=-3.4 W, I=-0.899 A, Calc=-3.4 W         |
+|Process! Solve_current: P=-3.4 W, I=-0.905 A, Calc=-3.4 W         |
+|Process! R_pack: 0.021022, R_cell: 0.032233, I_pack: -20.805, I_cell: -0.905, Power_expected: -1174.8 W, Power_calc: -1174.8 W|
+|Process! Action before optimize: 1.230 kW                         |
+|Process! Optimizer received power: 1.230 kW                       |
+|Process! Solve_current: P=3.6 W, I=0.956 A, Calc=3.6 W            |
+|Process! Solve_current: P=3.6 W, I=0.948 A, Calc=3.6 W            |
+|Process! R_pack: 0.020683, R_cell: 0.031713, I_pack: 21.806, I_cell: 0.948, Power_expected: 1230.3 W, Power_calc: 1230.3 W|
+|Process! Action before optimize: -2.022 kW                        |
+|Process! Optimizer received power: -2.022 kW                      |
+|Process! Solve_current: P=-5.9 W, I=-1.532 A, Calc=-5.9 W         |
+|Process! Solve_current: P=-5.9 W, I=-1.550 A, Calc=-5.9 W         |
+|Process! R_pack: 0.021033, R_cell: 0.032250, I_pack: -35.639, I_cell: -1.550, Power_expected: -2022.0 W, Power_calc: -2022.0 W|
+|Process! Action before optimize: -0.360 kW                        |
+|Process! Optimizer received power: -0.360 kW                      |
+|Process! Solve_current: P=-1.0 W, I=-0.271 A, Calc=-1.0 W         |
+|Process! Solve_current: P=-1.0 W, I=-0.272 A, Calc=-1.0 W         |
+|Process! R_pack: 0.019992, R_cell: 0.030654, I_pack: -6.259, I_cell: -0.272, Power_expected: -360.1 W, Power_calc: -360.1 W|
+|Process! Action before optimize: -0.144 kW                        |
+|Process! Optimizer received power: -0.144 kW                      |
+|Process! Solve_current: P=-0.4 W, I=-0.108 A, Calc=-0.4 W         |
+|Process! Solve_current: P=-0.4 W, I=-0.108 A, Calc=-0.4 W         |
+|Process! R_pack: 0.028860, R_cell: 0.044252, I_pack: -2.493, I_cell: -0.108, Power_expected: -143.9 W, Power_calc: -143.9 W|
+|Process! Action before optimize: -0.594 kW                        |
+|Process! Optimizer received power: -0.594 kW                      |
+|Process! Solve_current: P=-1.7 W, I=-0.444 A, Calc=-1.7 W         |
+|Process! Solve_current: P=-1.7 W, I=-0.446 A, Calc=-1.7 W         |
+|Process! R_pack: 0.019963, R_cell: 0.030610, I_pack: -10.249, I_cell: -0.446, Power_expected: -593.7 W, Power_calc: -593.7 W|
+|Process! Step 100 => SOH: 83.14%, SOC: 65.37%, Q_loss: 16.86%, C_use: 93.95Ah, N: 6.290, Ah_total: 590.94, delta_soh: -0.00217|
+|Process! Action before optimize: -0.092 kW                        |
+|Process! Optimizer received power: -0.092 kW                      |
+|Process! Solve_current: P=-0.3 W, I=-0.069 A, Calc=-0.3 W         |
+|Process! Solve_current: P=-0.3 W, I=-0.069 A, Calc=-0.3 W         |
+|Process! R_pack: 0.034220, R_cell: 0.052471, I_pack: -1.580, I_cell: -0.069, Power_expected: -91.9 W, Power_calc: -91.9 W|
+|Process! Action before optimize: 1.021 kW                         |
+|Process! Optimizer received power: 1.021 kW                       |
+|Process! Solve_current: P=3.0 W, I=0.774 A, Calc=3.0 W            |
+|Process! Solve_current: P=3.0 W, I=0.769 A, Calc=3.0 W            |
+|Process! R_pack: 0.020327, R_cell: 0.031168, I_pack: 17.680, I_cell: 0.769, Power_expected: 1021.2 W, Power_calc: 1021.2 W|
+|Process! Action before optimize: -0.720 kW                        |
+|Process! Optimizer received power: -0.720 kW                      |
+|Process! Solve_current: P=-2.1 W, I=-0.539 A, Calc=-2.1 W         |
+|Process! Solve_current: P=-2.1 W, I=-0.542 A, Calc=-2.1 W         |
+|Process! R_pack: 0.019939, R_cell: 0.030573, I_pack: -12.467, I_cell: -0.542, Power_expected: -720.1 W, Power_calc: -720.1 W|
+|Process! Action before optimize: -0.268 kW                        |
+|Process! Optimizer received power: -0.268 kW                      |
+|Process! Solve_current: P=-0.8 W, I=-0.200 A, Calc=-0.8 W         |
+|Process! Solve_current: P=-0.8 W, I=-0.201 A, Calc=-0.8 W         |
+|Process! R_pack: 0.021467, R_cell: 0.032916, I_pack: -4.619, I_cell: -0.201, Power_expected: -268.1 W, Power_calc: -268.1 W|
+|Process! Action before optimize: -0.712 kW                        |
+|Process! Optimizer received power: -0.712 kW                      |
+|Process! Solve_current: P=-2.1 W, I=-0.528 A, Calc=-2.1 W         |
+|Process! Solve_current: P=-2.1 W, I=-0.530 A, Calc=-2.1 W         |
+|Process! R_pack: 0.020308, R_cell: 0.031138, I_pack: -12.195, I_cell: -0.530, Power_expected: -711.6 W, Power_calc: -711.6 W|
+|Process! Action before optimize: -0.420 kW                        |
+|Process! Optimizer received power: -0.420 kW                      |
+|Process! Solve_current: P=-1.2 W, I=-0.311 A, Calc=-1.2 W         |
+|Process! Solve_current: P=-1.2 W, I=-0.311 A, Calc=-1.2 W         |
+|Process! R_pack: 0.020606, R_cell: 0.031597, I_pack: -7.162, I_cell: -0.311, Power_expected: -420.1 W, Power_calc: -420.1 W|
+|Process! Action before optimize: 0.710 kW                         |
+|Process! Optimizer received power: 0.710 kW                       |
+|Process! Solve_current: P=2.1 W, I=0.530 A, Calc=2.1 W            |
+|Process! Solve_current: P=2.1 W, I=0.528 A, Calc=2.1 W            |
+|Process! R_pack: 0.020715, R_cell: 0.031762, I_pack: 12.143, I_cell: 0.528, Power_expected: 710.3 W, Power_calc: 710.3 W|
+|Process! Action before optimize: -2.039 kW                        |
+|Process! Optimizer received power: -2.039 kW                      |
+|Process! Solve_current: P=-5.9 W, I=-1.485 A, Calc=-5.9 W         |
+|Process! Solve_current: P=-5.9 W, I=-1.501 A, Calc=-5.9 W         |
+|Process! R_pack: 0.020507, R_cell: 0.031444, I_pack: -34.525, I_cell: -1.501, Power_expected: -2038.6 W, Power_calc: -2038.6 W|
+|Process! Action before optimize: 0.936 kW                         |
+|Process! Optimizer received power: 0.936 kW                       |
+|Process! Solve_current: P=2.7 W, I=0.688 A, Calc=2.7 W            |
+|Process! Solve_current: P=2.7 W, I=0.685 A, Calc=2.7 W            |
+|Process! R_pack: 0.021134, R_cell: 0.032405, I_pack: 15.754, I_cell: 0.685, Power_expected: 936.0 W, Power_calc: 936.0 W|
+|Process! Action before optimize: 1.392 kW                         |
+|Process! Optimizer received power: 1.392 kW                       |
+|Process! Solve_current: P=4.0 W, I=1.041 A, Calc=4.0 W            |
+|Process! Solve_current: P=4.0 W, I=1.034 A, Calc=4.0 W            |
+|Process! R_pack: 0.020823, R_cell: 0.031929, I_pack: 23.790, I_cell: 1.034, Power_expected: 1391.7 W, Power_calc: 1391.7 W|
+|Process! Environment RESET => new episode started                 |
+|Process! Action before optimize: 0.258 kW                         |
+|Process! Optimizer received power: 0.258 kW                       |
+|Process! Solve_current: P=0.7 W, I=0.202 A, Calc=0.7 W            |
+|Process! Solve_current: P=0.7 W, I=0.202 A, Calc=0.7 W            |
+|Process! R_pack: 0.021574, R_cell: 0.033080, I_pack: 4.637, I_cell: 0.202, Power_expected: 258.5 W, Power_calc: 258.5 W|
+|Process! Action before optimize: -0.274 kW                        |
+|Process! Optimizer received power: -0.274 kW                      |
+|Process! Solve_current: P=-0.8 W, I=-0.213 A, Calc=-0.8 W         |
+|Process! Solve_current: P=-0.8 W, I=-0.213 A, Calc=-0.8 W         |
+|Process! R_pack: 0.021072, R_cell: 0.032310, I_pack: -4.910, I_cell: -0.213, Power_expected: -273.9 W, Power_calc: -273.9 W|
+|Process! Action before optimize: -0.358 kW                        |
+|Process! Optimizer received power: -0.358 kW                      |
+|Process! Solve_current: P=-1.0 W, I=-0.277 A, Calc=-1.0 W         |
+|Process! Solve_current: P=-1.0 W, I=-0.278 A, Calc=-1.0 W         |
+|Process! R_pack: 0.021049, R_cell: 0.032275, I_pack: -6.392, I_cell: -0.278, Power_expected: -357.9 W, Power_calc: -357.9 W|
+|Process! Action before optimize: 1.841 kW                         |
+|Process! Optimizer received power: 1.841 kW                       |
+|Process! Solve_current: P=5.3 W, I=1.462 A, Calc=5.3 W            |
+|Process! Solve_current: P=5.3 W, I=1.445 A, Calc=5.3 W            |
+|Process! R_pack: 0.021003, R_cell: 0.032204, I_pack: 33.238, I_cell: 1.445, Power_expected: 1840.6 W, Power_calc: 1840.6 W|
+|Process! Action before optimize: 1.001 kW                         |
+|Process! Optimizer received power: 1.001 kW                       |
+|Process! Solve_current: P=2.9 W, I=0.802 A, Calc=2.9 W            |
+|Process! Solve_current: P=2.9 W, I=0.797 A, Calc=2.9 W            |
+|Process! R_pack: 0.021122, R_cell: 0.032387, I_pack: 18.338, I_cell: 0.797, Power_expected: 1001.3 W, Power_calc: 1001.3 W|
+|Process! Action before optimize: -0.098 kW                        |
+|Process! Optimizer received power: -0.098 kW                      |
+|Process! Solve_current: P=-0.3 W, I=-0.078 A, Calc=-0.3 W         |
+|Process! Solve_current: P=-0.3 W, I=-0.078 A, Calc=-0.3 W         |
+|Process! R_pack: 0.031365, R_cell: 0.048092, I_pack: -1.798, I_cell: -0.078, Power_expected: -98.0 W, Power_calc: -98.0 W|
+|Process! Action before optimize: 1.881 kW                         |
+|Process! Optimizer received power: 1.881 kW                       |
+|Process! Solve_current: P=5.5 W, I=1.539 A, Calc=5.5 W            |
+|Process! Solve_current: P=5.5 W, I=1.520 A, Calc=5.5 W            |
+|Process! R_pack: 0.021104, R_cell: 0.032360, I_pack: 34.971, I_cell: 1.520, Power_expected: 1881.1 W, Power_calc: 1881.1 W|
+|Process! Action before optimize: 0.468 kW                         |
+|Process! Optimizer received power: 0.468 kW                       |
+|Process! Solve_current: P=1.4 W, I=0.382 A, Calc=1.4 W            |
+|Process! Solve_current: P=1.4 W, I=0.381 A, Calc=1.4 W            |
+|Process! R_pack: 0.020491, R_cell: 0.031420, I_pack: 8.752, I_cell: 0.381, Power_expected: 467.5 W, Power_calc: 467.5 W|
+|Process! Action before optimize: 0.589 kW                         |
+|Process! Optimizer received power: 0.589 kW                       |
+|Process! Solve_current: P=1.7 W, I=0.485 A, Calc=1.7 W            |
+|Process! Solve_current: P=1.7 W, I=0.482 A, Calc=1.7 W            |
+|Process! R_pack: 0.020396, R_cell: 0.031274, I_pack: 11.087, I_cell: 0.482, Power_expected: 589.2 W, Power_calc: 589.2 W|
+|Process! Action before optimize: 1.060 kW                         |
+|Process! Optimizer received power: 1.060 kW                       |
+|Process! Solve_current: P=3.1 W, I=0.889 A, Calc=3.1 W            |
+|Process! Solve_current: P=3.1 W, I=0.876 A, Calc=3.1 W            |
+|Process! R_pack: 0.020294, R_cell: 0.031118, I_pack: 20.139, I_cell: 0.876, Power_expected: 1060.3 W, Power_calc: 1060.3 W|
+|Process! Action before optimize: -0.695 kW                        |
+|Process! Optimizer received power: -0.695 kW                      |
+|Process! Solve_current: P=-2.0 W, I=-0.568 A, Calc=-2.0 W         |
+|Process! Solve_current: P=-2.0 W, I=-0.574 A, Calc=-2.0 W         |
+|Process! R_pack: 0.020127, R_cell: 0.030861, I_pack: -13.201, I_cell: -0.574, Power_expected: -695.3 W, Power_calc: -695.3 W|
+|Process! Action before optimize: -0.135 kW                        |
+|Process! Optimizer received power: -0.135 kW                      |
+|Process! Solve_current: P=-0.4 W, I=-0.111 A, Calc=-0.4 W         |
+|Process! Solve_current: P=-0.4 W, I=-0.111 A, Calc=-0.4 W         |
+|Process! R_pack: 0.032283, R_cell: 0.049501, I_pack: -2.548, I_cell: -0.111, Power_expected: -134.9 W, Power_calc: -134.9 W|
+|Process! Action before optimize: -0.605 kW                        |
+|Process! Optimizer received power: -0.605 kW                      |
+|Process! Solve_current: P=-1.8 W, I=-0.491 A, Calc=-1.8 W         |
+|Process! Solve_current: P=-1.8 W, I=-0.495 A, Calc=-1.8 W         |
+|Process! R_pack: 0.020307, R_cell: 0.031137, I_pack: -11.385, I_cell: -0.495, Power_expected: -605.3 W, Power_calc: -605.3 W|
+|Process! Action before optimize: -1.410 kW                        |
+|Process! Optimizer received power: -1.410 kW                      |
+|Process! Solve_current: P=-4.1 W, I=-1.122 A, Calc=-4.1 W         |
+|Process! Solve_current: P=-4.1 W, I=-1.140 A, Calc=-4.1 W         |
+|Process! R_pack: 0.020366, R_cell: 0.031227, I_pack: -26.222, I_cell: -1.140, Power_expected: -1410.5 W, Power_calc: -1410.5 W|
+|Process! Action before optimize: 0.459 kW                         |
+|Process! Optimizer received power: 0.459 kW                       |
+|Process! Solve_current: P=1.3 W, I=0.373 A, Calc=1.3 W            |
+|Process! Solve_current: P=1.3 W, I=0.371 A, Calc=1.3 W            |
+|Process! R_pack: 0.020854, R_cell: 0.031977, I_pack: 8.543, I_cell: 0.371, Power_expected: 459.5 W, Power_calc: 459.5 W|
+|Process! Action before optimize: 0.696 kW                         |
+|Process! Optimizer received power: 0.696 kW                       |
+|Process! Solve_current: P=2.0 W, I=0.570 A, Calc=2.0 W            |
+|Process! Solve_current: P=2.0 W, I=0.566 A, Calc=2.0 W            |
+|Process! R_pack: 0.020626, R_cell: 0.031626, I_pack: 13.026, I_cell: 0.566, Power_expected: 696.4 W, Power_calc: 696.4 W|
+|Process! Action before optimize: -0.262 kW                        |
+|Process! Optimizer received power: -0.262 kW                      |
+|Process! Solve_current: P=-0.8 W, I=-0.212 A, Calc=-0.8 W         |
+|Process! Solve_current: P=-0.8 W, I=-0.213 A, Calc=-0.8 W         |
+|Process! R_pack: 0.020405, R_cell: 0.031288, I_pack: -4.900, I_cell: -0.213, Power_expected: -262.0 W, Power_calc: -262.0 W|
+|Process! Action before optimize: -0.070 kW                        |
+|Process! Optimizer received power: -0.070 kW                      |
+|Process! Solve_current: P=-0.2 W, I=-0.057 A, Calc=-0.2 W         |
+|Process! Solve_current: P=-0.2 W, I=-0.057 A, Calc=-0.2 W         |
+|Process! R_pack: 0.040410, R_cell: 0.061963, I_pack: -1.301, I_cell: -0.057, Power_expected: -69.7 W, Power_calc: -69.7 W|
+|Process! Action before optimize: -2.906 kW                        |
+|Process! Optimizer received power: -2.906 kW                      |
+|Process! Solve_current: P=-8.4 W, I=-2.251 A, Calc=-8.4 W         |
+|Process! Solve_current: P=-8.4 W, I=-2.312 A, Calc=-8.4 W         |
+|Process! R_pack: 0.020455, R_cell: 0.031365, I_pack: -53.179, I_cell: -2.312, Power_expected: -2905.7 W, Power_calc: -2905.7 W|
+|Process! Action before optimize: 0.020 kW                         |
+|Process! Optimizer received power: 0.020 kW                       |
+|Process! Solve_current: P=0.1 W, I=0.016 A, Calc=0.1 W            |
+|Process! R_pack: 0.038487, R_cell: 0.059013, I_pack: 0.363, I_cell: 0.016, Power_expected: 19.9 W, Power_calc: 19.9 W|
+|Process! Action before optimize: 1.342 kW                         |
+|Process! Optimizer received power: 1.342 kW                       |
+|Process! Solve_current: P=3.9 W, I=1.080 A, Calc=3.9 W            |
+|Process! Solve_current: P=3.9 W, I=1.071 A, Calc=3.9 W            |
+|Process! R_pack: 0.021116, R_cell: 0.032378, I_pack: 24.630, I_cell: 1.071, Power_expected: 1341.7 W, Power_calc: 1341.7 W|
+|Process! Action before optimize: -0.543 kW                        |
+|Process! Optimizer received power: -0.543 kW                      |
+|Process! Solve_current: P=-1.6 W, I=-0.432 A, Calc=-1.6 W         |
+|Process! Solve_current: P=-1.6 W, I=-0.433 A, Calc=-1.6 W         |
+|Process! R_pack: 0.021062, R_cell: 0.032295, I_pack: -9.966, I_cell: -0.433, Power_expected: -543.3 W, Power_calc: -543.3 W|
+|Process! Action before optimize: -0.508 kW                        |
+|Process! Optimizer received power: -0.508 kW                      |
+|Process! Solve_current: P=-1.5 W, I=-0.402 A, Calc=-1.5 W         |
+|Process! Solve_current: P=-1.5 W, I=-0.404 A, Calc=-1.5 W         |
+|Process! R_pack: 0.021105, R_cell: 0.032361, I_pack: -9.283, I_cell: -0.404, Power_expected: -508.4 W, Power_calc: -508.4 W|
+|Process! Action before optimize: -0.356 kW                        |
+|Process! Optimizer received power: -0.356 kW                      |
+|Process! Solve_current: P=-1.0 W, I=-0.281 A, Calc=-1.0 W         |
+|Process! Solve_current: P=-1.0 W, I=-0.281 A, Calc=-1.0 W         |
+|Process! R_pack: 0.021109, R_cell: 0.032367, I_pack: -6.469, I_cell: -0.281, Power_expected: -355.6 W, Power_calc: -355.6 W|
+|Process! Action before optimize: -0.194 kW                        |
+|Process! Optimizer received power: -0.194 kW                      |
+|Process! Solve_current: P=-0.6 W, I=-0.153 A, Calc=-0.6 W         |
+|Process! Solve_current: P=-0.6 W, I=-0.153 A, Calc=-0.6 W         |
+|Process! R_pack: 0.024548, R_cell: 0.037641, I_pack: -3.528, I_cell: -0.153, Power_expected: -194.4 W, Power_calc: -194.4 W|
+|Process! Action before optimize: -1.043 kW                        |
+|Process! Optimizer received power: -1.043 kW                      |
+|Process! Solve_current: P=-3.0 W, I=-0.812 A, Calc=-3.0 W         |
+|Process! Solve_current: P=-3.0 W, I=-0.817 A, Calc=-3.0 W         |
+|Process! R_pack: 0.021110, R_cell: 0.032369, I_pack: -18.780, I_cell: -0.817, Power_expected: -1043.0 W, Power_calc: -1043.0 W|
+|Process! Action before optimize: 0.042 kW                         |
+|Process! Optimizer received power: 0.042 kW                       |
+|Process! Solve_current: P=0.1 W, I=0.032 A, Calc=0.1 W            |
+|Process! Solve_current: P=0.1 W, I=0.032 A, Calc=0.1 W            |
+|Process! R_pack: 0.036783, R_cell: 0.056400, I_pack: 0.746, I_cell: 0.032, Power_expected: 41.6 W, Power_calc: 41.6 W|
+|Process! Action before optimize: 1.731 kW                         |
+|Process! Optimizer received power: 1.731 kW                       |
+|Process! Solve_current: P=5.0 W, I=1.381 A, Calc=5.0 W            |
+|Process! Solve_current: P=5.0 W, I=1.367 A, Calc=5.0 W            |
+|Process! R_pack: 0.021057, R_cell: 0.032287, I_pack: 31.430, I_cell: 1.367, Power_expected: 1731.1 W, Power_calc: 1731.1 W|
+|Process! Action before optimize: 0.904 kW                         |
+|Process! Optimizer received power: 0.904 kW                       |
+|Process! Solve_current: P=2.6 W, I=0.727 A, Calc=2.6 W            |
+|Process! Solve_current: P=2.6 W, I=0.723 A, Calc=2.6 W            |
+|Process! R_pack: 0.021114, R_cell: 0.032375, I_pack: 16.619, I_cell: 0.723, Power_expected: 903.9 W, Power_calc: 903.9 W|
+|Process! Action before optimize: 0.565 kW                         |
+|Process! Optimizer received power: 0.565 kW                       |
+|Process! Solve_current: P=1.6 W, I=0.457 A, Calc=1.6 W            |
+|Process! Solve_current: P=1.6 W, I=0.455 A, Calc=1.6 W            |
+|Process! R_pack: 0.021053, R_cell: 0.032282, I_pack: 10.460, I_cell: 0.455, Power_expected: 565.4 W, Power_calc: 565.4 W|
